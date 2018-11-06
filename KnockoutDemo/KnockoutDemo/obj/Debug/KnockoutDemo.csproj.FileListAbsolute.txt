@@ -1,0 +1,72 @@
+D:\Test\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.dll.config
+D:\Test\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.pdb
+D:\Test\KnockoutDemo\KnockoutDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\Newtonsoft.Json.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.Formatting.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.WebRequest.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Helpers.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.WebHost.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Mvc.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Razor.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Razor.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\Newtonsoft.Json.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.Formatting.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.WebRequest.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Helpers.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.WebHost.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Mvc.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.Razor.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Razor.xml
+D:\Test\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.dll
+D:\Test\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.pdb
+D:\Test\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.csprojResolveAssemblyReference.cache
+D:\Test\KnockoutDemo\KnockoutDemo\bin\EntityFramework.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\EntityFramework.SqlServer.dll
+D:\Test\KnockoutDemo\KnockoutDemo\bin\EntityFramework.xml
+D:\Test\KnockoutDemo\KnockoutDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.dll.config
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\KnockoutDemo.pdb
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\EntityFramework.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\Newtonsoft.Json.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Helpers.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Mvc.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Razor.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\EntityFramework.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\Newtonsoft.Json.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Helpers.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Mvc.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.Razor.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\bin\System.Net.Http.xml
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.csprojAssemblyReference.cache
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.csproj.CopyComplete
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.dll
+C:\Users\Carly Lokare\Documents\CS FILES\KnockoutDemo\KnockoutDemo\obj\Debug\KnockoutDemo.pdb
